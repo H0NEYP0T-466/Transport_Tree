@@ -1,0 +1,34 @@
+# Compiled executables
+transport_tree
+transport_tree.exe
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Compiler generated files
+*.dSYM/
+
+# IDE files
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Build directories
+build/
+dist/
+
+# Log files
+*.log
