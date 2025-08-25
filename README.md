@@ -182,16 +182,17 @@ Metro Bus Information:
 ```
 Transport_Tree/
 ├── 📄 README.md                    # Project documentation
+├── 🤝 CONTRIBUTING.md              # Contribution guidelines
 ├── 🔧 sem2.cpp                     # Main C++ source file
 ├── 📦 files.rar                    # Compressed data files (stations, routes)
 ├── 📊 oop_pres.pptx               # Project presentation
-├── 📁 .git/                       # Git version control
-│   ├── hooks/
-│   ├── info/
-│   ├── logs/
-│   ├── objects/
-│   └── refs/
-└── 📄 LICENSE                     # MIT License (auto-generated)
+├── 📄 LICENSE                     # MIT License
+└── 📁 .git/                       # Git version control
+    ├── hooks/
+    ├── info/
+    ├── logs/
+    ├── objects/
+    └── refs/
 ```
 
 ### Expected Data File Structure (from files.rar)
