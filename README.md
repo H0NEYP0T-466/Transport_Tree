@@ -1,10 +1,15 @@
 # 🚌 Transport Tree
 
-![GitHub License](https://img.shields.io/github/license/H0NEYP0T-466/Transport_Tree?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/H0NEYP0T-466/Transport_Tree?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/H0NEYP0T-466/Transport_Tree?style=flat-square)
-![GitHub Issues](https://img.shields.io/github/issues/H0NEYP0T-466/Transport_Tree?style=flat-square)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/H0NEYP0T-466/Transport_Tree?style=for-the-badge&color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/H0NEYP0T-466/Transport_Tree?style=for-the-badge&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/H0NEYP0T-466/Transport_Tree?style=for-the-badge&color=blue)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/H0NEYP0T-466/Transport_Tree?style=for-the-badge&color=red)
+
+## 🔗 Quick Links
+
+| 🎮 [Demo](#-usage) | 📚 [Documentation](#-table-of-contents) | 🐛 [Issues](https://github.com/H0NEYP0T-466/Transport_Tree/issues) | 🤝 [Contributing](CONTRIBUTING.md) |
+|:---:|:---:|:---:|:---:|
 
 ## 📋 Description
 
@@ -15,12 +20,24 @@ The application demonstrates advanced C++ concepts including inheritance, file I
 ## 📚 Table of Contents
 
 - [🚌 Transport Tree](#-transport-tree)
+  - [🔗 Quick Links](#-quick-links)
   - [📋 Description](#-description)
   - [📚 Table of Contents](#-table-of-contents)
   - [🚀 Installation](#-installation)
+    - [Prerequisites](#prerequisites)
+    - [Quick Start](#quick-start)
+    - [Alternative Installation Methods](#alternative-installation-methods)
   - [💻 Usage](#-usage)
+    - [Basic Operation](#basic-operation)
+    - [Example Workflows](#example-workflows)
+    - [Command Line Arguments](#command-line-arguments-if-implemented)
   - [✨ Features](#-features)
+    - [🚌 Multi-Modal Transport Support](#-multi-modal-transport-support)
+    - [🎯 Core Functionality](#-core-functionality)
+    - [🛠️ Technical Features](#️-technical-features)
+    - [🔧 Advanced Capabilities](#-advanced-capabilities)
   - [📁 Folder Structure](#-folder-structure)
+  - [🛠️ Built With](#️-built-with)
   - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
   - [🗺️ Roadmap](#️-roadmap)
@@ -191,7 +208,18 @@ data/
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Here's how you can help improve Transport Tree:
+We welcome contributions from the community! Please see our [**Contributing Guide**](CONTRIBUTING.md) for detailed information on how to get started.
+
+### 🚀 Quick Start for Contributors
+
+1. **Fork** the repository
+2. **Clone** your fork: `git clone https://github.com/YOUR_USERNAME/Transport_Tree.git`
+3. **Create** a feature branch: `git checkout -b feature/amazing-feature`
+4. **Make** your changes following our [code style guidelines](CONTRIBUTING.md#-code-style-guidelines)
+5. **Test** your changes thoroughly
+6. **Commit** using our [commit message format](CONTRIBUTING.md#step-5-commit-your-changes)
+7. **Push** to your branch: `git push origin feature/amazing-feature`
+8. **Open** a Pull Request
 
 ### 🐛 Reporting Issues
 - Check existing issues before creating new ones
@@ -204,76 +232,26 @@ We welcome contributions from the community! Here's how you can help improve Tra
 - Describe the feature and its benefits
 - Include mockups or examples if applicable
 
-### 🔧 Contributing Code
-
-1. **Fork the repository**
-   ```bash
-   git fork https://github.com/H0NEYP0T-466/Transport_Tree.git
-   ```
-
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-
-3. **Make your changes**
-   - Follow existing code style and conventions
-   - Add comments for complex logic
-   - Test your changes thoroughly
-
-4. **Commit your changes**
-   ```bash
-   git commit -m "Add amazing feature: detailed description"
-   ```
-
-5. **Push to your branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-
-6. **Open a Pull Request**
-   - Use a clear, descriptive title
-   - Explain what changes you made and why
-   - Reference any related issues
-
-### 📝 Development Guidelines
-- **Code Style**: Follow C++ best practices and existing project conventions
-- **Testing**: Ensure your changes don't break existing functionality
-- **Documentation**: Update README and comments as needed
-- **Commits**: Use clear, descriptive commit messages
-
 ### 🏆 Contributors
 Thanks to all contributors who have helped improve this project:
 - **M. Fezan** (466) - Core developer and project lead
 - **Umer Malik** (628) - Co-developer and feature implementation
 
+For more detailed contribution guidelines, please read our [**Contributing Guide**](CONTRIBUTING.md).
+
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the details below:
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
+### License Summary
+- ✅ **Commercial use** - Use in commercial projects
+- ✅ **Modification** - Modify the source code
+- ✅ **Distribution** - Distribute the software
+- ✅ **Private use** - Use in private projects
+- ❌ **Liability** - No warranty or liability
+- ❌ **Warranty** - No warranty provided
 
-Copyright (c) 2024 Transport Tree Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+**Copyright © 2024 Transport Tree Contributors**
 
 ## 🗺️ Roadmap
 
@@ -299,15 +277,28 @@ SOFTWARE.
 - [ ] **CI/CD Pipeline**: Automated building and testing
 - [ ] **Docker Support**: Containerized deployment options
 
+## 🛠️ Built With
+
+### Core Technologies
+- [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/) - **C++11/14/17** - Core programming language
+- [![Standard Library](https://img.shields.io/badge/Standard_Library-FF6C37?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp/header) - **STL** - Standard Template Library for data structures and algorithms
+
+### Development Tools
+- [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) - **Git** - Version control system
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) - **GitHub** - Code hosting and collaboration
+- [![GCC](https://img.shields.io/badge/GCC-654321?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org/) - **GCC/Clang** - C++ compilers
+- [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) - **Markdown** - Documentation formatting
+
+### Key Libraries Used
+- **`<iostream>`** - Input/output stream handling
+- **`<fstream>`** - File stream operations for data persistence
+- **`<sstream>`** - String stream processing
+- **`<limits>`** - Numeric limits and input validation
+
 ## 🙏 Acknowledgements
 
 ### 🎓 Educational Context
 This project was developed as part of an Object-Oriented Programming (OOP) course, demonstrating practical applications of C++ concepts in real-world scenarios.
-
-### 🛠️ Tools and Technologies
-- **C++ Standard Library**: For core functionality and file operations
-- **GitHub**: Version control and collaborative development
-- **Markdown**: Documentation formatting and presentation
 
 ### 📚 Learning Resources
 - C++ Programming concepts and best practices
@@ -329,6 +320,6 @@ This project draws inspiration from real-world urban transportation systems and 
 
 **⭐ If you find this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by the Transport Tree Team
+Made with ❤️ by **H0NEYP0T-466**
 
 </div>
